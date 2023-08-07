@@ -153,7 +153,6 @@
             this.uxFlowLayoutPanelPegA.Name = "uxFlowLayoutPanelPegA";
             this.uxFlowLayoutPanelPegA.Size = new System.Drawing.Size(293, 473);
             this.uxFlowLayoutPanelPegA.TabIndex = 8;
-            this.uxFlowLayoutPanelPegA.Paint += new System.Windows.Forms.PaintEventHandler(this.uxFlowLayoutPanelPegA_Paint);
             // 
             // uxFlowLayoutPanelPegB
             // 
