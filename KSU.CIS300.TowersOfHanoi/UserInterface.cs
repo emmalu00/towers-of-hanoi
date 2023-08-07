@@ -412,5 +412,10 @@ namespace KSU.CIS300.TowersOfHanoi
         {
             MoveDisc(PegC, PegA);
         }
+
+        private void uxFlowLayoutPanelPegA_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
