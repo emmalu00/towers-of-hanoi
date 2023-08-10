@@ -6,7 +6,6 @@ This project uses an user interface, utilizing stacks, that allows a user to cre
 
 
 ## User Interface
-The user interface was developed in Visual Studio using Windows Forms. 
 
 ![image](https://github.com/emmalu00/towers-of-hanoi/assets/106994328/816cf7da-d9da-4663-be95-0c6c2efaa076)
 
