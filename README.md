@@ -23,4 +23,4 @@ The user should be able to win the game with a message indicating whether or not
 ![image](https://github.com/emmalu00/towers-of-hanoi/assets/106994328/0b427ab2-0a0f-46fd-b6bf-7d11aa18869d)
 
 ## Running the Program
-This program should be cloned to your local machine and be ran through Microsoft Visual Studio.
+This program should be cloned to your local machine and be ran with Microsoft Visual Studio.
